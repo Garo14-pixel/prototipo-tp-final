@@ -9,7 +9,7 @@
 
 body {
   /* CORREGIDO: Sintaxis con url() y agregamos el combo para que no se deforme */
-  background-image: url('fondoladrillo.jpg');
+  background-image: url('corcho.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
